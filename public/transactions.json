@@ -1,0 +1,14 @@
+[
+ {"id":1,"name":"Groceries at FreshCo","date":"2026-10-28","category":"Food","amount":48.65,"details":"Weekly groceries and snacks"},
+ {"id":2,"name":"Monthly transit pass","date":"2026-10-25","category":"Transport","amount":128.00,"details":"Student monthly pass"},
+ {"id":3,"name":"Unknown Transaction","date":"2026-10-22","category":"Miscellaneous","amount":76.50,"details":"Money oweed to friend"},
+ {"id":4,"name":"Coffee with friends","date":"2026-10-19","category":"Food","amount":14.25,"details":"Cafe near campus"},
+ {"id":5,"name":"Cinema tickets","date":"2026-10-15","category":"Entertainment","amount":32.00,"details":"Two student tickets"},
+ {"id":6,"name":"Pizza Hut","date":"2026-10-12","category":"Food","amount":7,"details":"Lunch for group project"},
+ {"id":7,"name":"Lunch on campus","date":"2026-10-08","category":"Food","amount":11.75,"details":"Student centre food court"},
+ {"id":8,"name":"Printing credits","date":"2026-10-03","category":"Other","amount":8.50,"details":"Library printing account"},
+ {"id":9,"name":"Groceries","date":"2026-09-26","category":"Food","amount":56.20,"details":"Monthly grocery top-up"},
+ {"id":10,"name":"Ride share","date":"2026-09-20","category":"Transport","amount":19.40,"details":"Late trip home"},
+ {"id":11,"name":"Art supplies","date":"2026-09-14","category":"Shopping","amount":29.99,"details":"Studio materials"},
+ {"id":12,"name":"Concert ticket","date":"2026-08-18","category":"Entertainment","amount":64.00,"details":"Summer concert"}
+]
