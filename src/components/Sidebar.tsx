@@ -4,7 +4,7 @@ import {
   ChartNoAxesCombined,
   GraduationCap,
 } from "lucide-react";
-export type Page = "transactions" | "add" | "reports";
+export type Page = "transactions" | "add" | "reports" | "edit";
 export default function Sidebar({
   page,
   onNavigate,
